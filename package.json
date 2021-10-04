@@ -29,7 +29,7 @@
     "markdown-js": "^0.0.4",
     "polka": "^0.5.2",
     "remark": "^14.0.1",
-    "remark-html": "^14.0.1",
+    "remark-html": "^15.0.0",
     "sirv": "^1.0.5",
     "svelte": "^3.24.0",
     "svelte-preprocess": "^4.0.9",
