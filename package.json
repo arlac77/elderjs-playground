@@ -32,7 +32,7 @@
     "remark-html": "^16.0.1",
     "sirv": "^2.0.0",
     "svelte": "^4.0.0",
-    "svelte-preprocess": "^5.0.0",
+    "svelte-preprocess": "^6.0.0",
     "systemjs": "^6.4.0"
   },
   "devDependencies": {
