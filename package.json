@@ -4,8 +4,8 @@
   "description": "",
   "main": "./src/build.js",
   "scripts": {
-    "start": "npm run build:rollup && npm run dev:server",
-    "build": "node ./src/cleanPublic.js && npm run build:rollup && npm run build:html && node ./src/afterBuild.js",
+    "start": "node --run build:rollup && node --run dev:server",
+    "build": "node ./src/cleanPublic.js && node --run build:rollup && node --run build:html && node ./src/afterBuild.js",
     "build:rollup": "rollup -c",
     "build:html": "node ./src/build.js",
     "dev:rollup": "rollup  -c -w --no-watch.clearScreen",
