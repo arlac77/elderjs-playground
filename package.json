@@ -36,7 +36,7 @@
     "systemjs": "^6.4.0"
   },
   "devDependencies": {
-    "@babel/core": "^7.26.9",
+    "@babel/core": "^7.26.10",
     "@babel/plugin-syntax-dynamic-import": "^7.0.0",
     "@babel/plugin-transform-runtime": "^7.10.5",
     "@babel/preset-env": "^7.10.4",
